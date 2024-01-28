@@ -29,6 +29,8 @@
   </div>
 </template>
 
+// Checking script
+
 <script>
 export default {
   props: ['id'],
